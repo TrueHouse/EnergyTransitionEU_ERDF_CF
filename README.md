@@ -3,4 +3,4 @@ Short python code to get the data from the EUs .csv file on projects funded from
 
 Datasource has to be put into the project folder: https://cohesiondata.ec.europa.eu/api/views/3kkx-ekfq/rows.csv?accessType=DOWNLOAD
 
-Documentation see comments in the code.ipynb
+Documentation see comments (behind #) in the code.ipynb
